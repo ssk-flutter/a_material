@@ -1,0 +1,21 @@
+name: a_material
+description: "Designed to appear before `cupertino.dart` in auto-import suggestions, enhancing developer productivity."
+version: 0.0.1
+homepage: https://github.com/ssk-flutter/a_material
+
+environment:
+  sdk: ^3.8.0
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
